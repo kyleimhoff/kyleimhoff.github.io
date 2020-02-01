@@ -1,11 +1,11 @@
 # Site settings
 author: Kyle Imhoff
-title: 
+title: My Coding Jouney
 header-img: img/home-bg.png
 email: imhoff.kyle@gmail.com
 copyright_name: Kyle Imhoff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Web Development Online
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kyleimhoff
